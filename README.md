@@ -104,7 +104,7 @@ As per the rolling standard deviation visual the trajectory of Birkshire Hathway
 ## Analyze the Risk-Return Profile ##
 
 
-![](risk_analysis.png)
+![](risk_return.png)
 
 
 BERKSHIRE HATHAWAY INC is having the best risk-return profile with the highest sharp ratio of 0.717512 and SOROS FUND MANAGEMENT LLC with a Sharpe ratio of -0.102290, has the worst risk-return profile.This means that from a risk-return perspective BERKSHIRE HATHAWAY INC offers a considerably better investment opportunity .
